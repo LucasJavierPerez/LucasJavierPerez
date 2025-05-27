@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Lucas Javier Perez. 
-- 👀 I’m interested in Data analisis and Machine Learning
-- 🌱 I’m (allways) currently learning Software development in python
-- 💞️ I’m looking to collaborate on new/old developments 
-- 📫 You can reach me by mi email: l.perez@itecriocuarto.org.ar, or my linkedln: https://www.linkedin.com/in/lucas-javier-perez-0997755a/
-- ⚡ Fun fact: ...
+# 👋 ¡Hola! Soy Lucas Javier Pérez
+
+### 📊 Apasionado por el análisis de datos y el aprendizaje automático
+
+- 👀 Interesado en **Data Analysis**, **Machine Learning** y **Desarrollo de Software**
+- 🌱 Actualmente aprendiendo y mejorando habilidades en **Python** y tecnologías relacionadas
+- 🤝 Abierto a colaborar en desarrollos nuevos y existentes
+- 📫 Podés contactarme por:
+  - 📧 Email: [l.perez@itecriocuarto.org.ar](mailto:l.perez@itecriocuarto.org.ar)
+  - 💼 LinkedIn: [lucas-javier-perez-0997755a](https://www.linkedin.com/in/lucas-javier-perez-0997755a/)
+- ⚡ Fun fact: Siempre encuentro una excusa para automatizar tareas repetitivas 😄
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LucasJavierPerez)](https://git.io/streak-stats)
 
